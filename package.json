@@ -1,12 +1,12 @@
 {
-    "name": "riddle-ocr",
-    "version": "1.0.0",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
+    "姓名": "riddle-ocr",
+    "版本": "1.0.0",
+    "主": server.js,
+    "脚本": {
+        "开始": "node server.js"
     },
-    "dependencies": {
-        "express": "^4.18.2",
-        "node-fetch": "^2.6.7"
+    "依赖性": {
+        "快递": "^4.18.2",
+        "节点获取": "^2.6.7"
     }
 }
